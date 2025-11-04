@@ -1,0 +1,8 @@
+# pip install 
+# pip install pandas numpy scikit-learn streamlit plotly joblib
+pandas,
+numpy,
+scikit-learn,
+streamlit,
+plotly ,
+joblib,

@@ -1,0 +1,10 @@
+# Virtual Environment
+.venv/
+# Python Caches
+__pycache__/
+*.pyc
+# Saved Models
+/models/*.pkl
+/models/*.joblib
+# Data
+/data/*.csv # You might decide to keep this or ignore it later
